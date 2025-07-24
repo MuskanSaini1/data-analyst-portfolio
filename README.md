@@ -16,7 +16,7 @@ I'm currently building projects to sharpen my data skills.Scroll down to see my 
 
 ## PROJECTS
 
-### Credit Risk Analysis
+### 1.Credit Risk Analysis
 **Objective:**
 Predict whether a borrower will default on a loan based on financial and demographic features.
 
@@ -38,3 +38,28 @@ Python,Pandas , Seaborn , Logistic Regression
 
 ** PDF Report:**
 [view credit Risk Analysis Report](https://github.com/MuskanSaini1/data-analyst-portfolio/blob/main/Credit_Risk_Analysis.pdf)
+
+2.### Airbnb Data Analysis
+
+**Objective:**
+Analyze Airbnb Listing data to identify factors that affect pricing and popularity of listingss.
+
+**Dataset:**
+--Source: Inside Airbnb / Kaggle
+
+--Features: Location , Room-type , Price , Availability
+
+**Tools Used:**
+Python , Pandas , Seaborn , Matplotlib
+
+**Key Steps:**
+--Data cleaning and handling nulls
+
+--Exploratory analysis on price vs location.
+
+--Correlation heatmaps and geographical plotting
+
+--insights on most profitable areas and room types
+
+**PDF Report:**
+[View Airbnb Data Analysis Report](
