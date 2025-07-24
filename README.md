@@ -41,7 +41,7 @@ Python,Pandas , Seaborn , Logistic Regression
 
 
 
-2.### Airbnb Data Analysis
+### 2. Airbnb Data Analysis
 
 **Objective:**
 Analyze Airbnb Listing data to identify factors that affect pricing and popularity of listingss.
@@ -68,7 +68,7 @@ Python , Pandas , Seaborn , Matplotlib
 
 
 
-3.Inventory Demand Forecasting
+### 3.Inventory Demand Forecasting
 
 **Objective:**
 Forecast product demand to optimize inventory planning and reduce overstock/shortage.
@@ -89,4 +89,31 @@ Forecast product demand to optimize inventory planning and reduce overstock/shor
 
 **PDF Report:**
 
-[View Inventory Demand Forecast Report](h
+[View Inventory Demand Forecast Report](https://github.com/MuskanSaini1/data-analyst-portfolio/blob/main/Inventory_Project_RealWorld_Updated.pdf)
+
+
+
+4.### Job Change Prediction of Data Scientists
+
+**Objective:**
+Predict whether a data science candidate will switch jobs based on skillsets and experience.
+
+**Dataset:**
+--Source: Analytics Vidhya
+--Features: Experience ,Company Size , Education Level , Skills
+
+**Tools Used:**
+Python , Pandas , Seaborn ,logistic Regression.
+
+**Key Steps:**
+--Data preprocessing(nulls , encoding)
+
+--EDA to find patterns in attrition
+
+--Model building(classification)
+
+--Evaluation using accuracy and confusion matrix
+
+
+**PDF Report:**
+[View Job Change Analysis Report](
