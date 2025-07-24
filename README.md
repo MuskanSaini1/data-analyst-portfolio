@@ -1,5 +1,11 @@
 ![Data Analyst Portfolio](https://github.com/MuskanSaini1/data-analyst-portfolio/blob/main/Data%20Analyst%20Portfolio.jpg)
 
+# Data Analyst Portfolio --- Muskan Saini
+
+Welcome to my portfolio! I'm an aspiring Data Analyst skilled in Python , SQL , Power BI and Excel.
+
+Here you'll find end-to-end real-world data analysis projects with clear insights and visualizations.
+
 
 # Hi , I'm Muskan Saini
 I'm an aspiring **Data Analyst** with hands-on experience in Python , SQL,Excel and Power BI.
