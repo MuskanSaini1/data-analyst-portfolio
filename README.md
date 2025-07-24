@@ -36,5 +36,5 @@ Python,Pandas , Seaborn , Logistic Regression
 
 --Evaluation using accuracy , confusion matrix
 
-**GitHub Repo / Notebook:**
-https://github.com/MuskanSaini1/credit-risk-analysis
+** PDF Report:**
+[view credit Risk Analysis Report](https://github.com/MuskanSaini1/data-analyst-portfolio/blob/main/Credit_Risk_Analysis.pdf)
