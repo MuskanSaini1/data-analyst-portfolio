@@ -39,6 +39,8 @@ Python,Pandas , Seaborn , Logistic Regression
 ** PDF Report:**
 [view credit Risk Analysis Report](https://github.com/MuskanSaini1/data-analyst-portfolio/blob/main/Credit_Risk_Analysis.pdf)
 
+
+
 2.### Airbnb Data Analysis
 
 **Objective:**
@@ -62,4 +64,29 @@ Python , Pandas , Seaborn , Matplotlib
 --insights on most profitable areas and room types
 
 **PDF Report:**
-[View Airbnb Data Analysis Report](
+[View Airbnb Data Analysis Report](https://github.com/MuskanSaini1/data-analyst-portfolio/blob/main/Airbnb%20Data%20Analysis(Project).pdf)
+
+
+
+3.Inventory Demand Forecasting
+
+**Objective:**
+Forecast product demand to optimize inventory planning and reduce overstock/shortage.
+
+**Dataset**
+--Source: Kaggle /Retail
+
+--Features: Pandas , Scikit-Learn ,XFBoost
+
+**Key Steps:**
+--Time-series preparation and lag features
+
+--Feature engineering and trend analysis 
+
+--Model Training with XGBoost
+
+--Evaluation using RMSE and accuracy
+
+**PDF Report:**
+
+[View Inventory Demand Forecast Report](h
